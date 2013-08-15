@@ -1,7 +1,7 @@
 {
     "name": "confidencial-ni-node"
     , "description": "Web scraping http://www.confidencial.com.ni/"
-    , "version": "0.0.2"
+    , "version": "0.0.5"
     , "author": "Paulo McNally <paulomcnally@gmail.com>"
     , "keywords": ["nicaragua", "diario", "news"]
     , "dependencies": {
