@@ -1,0 +1,24 @@
+{
+    "name": "confidencial-ni-node"
+    , "description": "Web scraping http://www.confidencial.com.ni/"
+    , "version": "0.0.2"
+    , "author": "Paulo McNally <paulomcnally@gmail.com>"
+    , "keywords": ["nicaragua", "diario", "news"]
+    , "dependencies": {
+        "string": "1.5.0",
+        "jsdom": "0.8.3",
+        "request": "2.26.0",
+        "cheerio": "0.12.1",
+        "async": "0.2.9"
+    }
+    , "directories": { "lib": "./lib/confidencial" }
+    , "main": "./index.js"
+    , "bugs": {
+        "url":"https://github.com/paulomcnally/confidencial-ni-node/issues/new",
+        "email": "paulomcnally@gmail.com"
+    }
+    , "repository": {
+    "type": "git"
+    , "url": "git://github.com/paulomcnally/confidencial-ni-node.git"
+}
+}
